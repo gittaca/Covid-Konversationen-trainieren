@@ -1,7 +1,6 @@
-/target
-*.csv
-*.swp
-*.swo
-.DS_Store
-anki.md
-ankimd_history.md
+# Standard-Dateien von https://github.com/nikked/ankimd
+src/
+target/
+tests/
+*_history.md
+Cargo.*

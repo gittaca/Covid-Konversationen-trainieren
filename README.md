@@ -1,133 +1,21 @@
-# ## [ankimd] Create Anki cards like a boss 
+# Covid-Konversationen trainieren
 
-> Write Anki cards in Markdown and import to Anki as csv file
+Übersetzungen aus [How to Talk to Your Loved Ones About Covid][docu]
+und Formatierung als [Anki-Lernkarten][anki].
 
-Everyday I write notes to a file called anki.md and convert this markdown to Anki cards. This is achieving by first converting the anki.md to html and then making a Anki importable csv.
+Zum Beitragen, gerne einfach unten weitere `## Abschnitte` eintragen
+und [ein Pull-Request erstellen][ghpr].
 
-This app is highly coupled to my personal workflow. I have done over 2000 Anki cards with the apps previous reincarnation (written in Python). It saves me a lot of time when I can just use my customized markdown and not use Anki's own sluggish editor. 
-
-
-## Examples
-
-
-Create a file `anki.md`. You are going to write your notes on these file. Here is an example of a simple card written in markdown:
-
-```markdown
-
-## Card front
-Card back 
-
-## [card_tag1, card_tag2] Card front
-Card back 
-
-## [Dutch] Do you work in a restaurant?
-Werk je in een restaurant?
-
-## [Rust, udemy] How to make a multiline comment in rust?
-
-With `/*` and `*/`:
-
-```rust
-/*
-a multiline
-comment
-*/
-\```
-
-```
-
-
-By default, the Card front is a one-liner. It starts with two hashes and is followed by a tag array. However with the separator `---` you can have multiline card fronts:
-
-```markdown
-## [card_tag1, card_tag2] Card front 
-
-```rust
-
-fn main() {
-    println!("Hello from Rust!"); 
-}
-\```
-
-Last line of card front
----
-
-Here starts card back
-* first bullet
-* second 
-* third bullet
-More text out of bullets
-
-```rust
-struct Person<'a> {
-    name: &'a str,
-}
-
-impl<'a> Person<'a> {
-    fn talk(&self) {
-        println!("Hi my name is {}", self.name)
-    }
-}
-\```
-Last line of card back
-```
-
-## Installation
-`brew install ankimd`
-`sudo apt install ankimd`
-
-
-## Usage
-```
-mkdir ankimd
-cd ankimd
-ankimd
-```
-You should get three files:
-1. `anki.md`: this is were you will do your work a
-2. `ankimd_output.csv`: a Anki importable csv-file
-3. `ankimd_history.md`: a history of written markdown
-
-Lets import the file to Anki
-
-## Markdown syntax
-ankimd uses a subset of markdown:
-
-* `## start of front`
-* `---` front separator
-* `*` bullet-points 
-* `1.` enumeration
-* and codeblocks
-
-Please refer to default anki.md
+[anki]: https://apps.ankiweb.net/
+[docu]: https://docs.google.com/document/d/1NVXCp1g6p847-DgNfjP69wjDVCOZNVv2XAaQW1miWrM/view
+[ghpr]: https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 
 
 
 
 
-## TODO
 
 
-### Database
-* Diesel
-* PostgreSQL
 
-### Web server
-* Futures (?)
-* Rocket
-* HTML
 
-### Ankimd.js
-* Clojurescript
-* Reagent
 
-### Card types
-* Add card type support
-* Remove BAS, REV, CLO from tag literal in card front
-
-### CLI
-* Enabling adding tag vector as CLI arg (default: [anki-rust])
-
-### Hygiene
-* Investigate why 'let matched_string' is allowed twice
-* Add type defs to all vars (?)
