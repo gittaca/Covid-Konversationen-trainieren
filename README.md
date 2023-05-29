@@ -41,3 +41,28 @@ und [ein Pull-Request erstellen][ghpr].
 - Danke, dass Du in Risikosituationen immer noch eine Maske trägst.
 - Danke fürs Zuhören. Ich bitte dich darum, weil ich meine Gesundheit zu erhalten versuche. Ich hoffe du weißt das.
 - Du warst immer ein guter Freund und bedeutest mir viel.
+
+## [Erwiderungen] "Ich möchte mein Leben leben!"
+
+Kannst du auch, nur halt mit ein paar Vorsichtsmaßnahmen.
+Niemand verlangt, dass du die ganze Zeit allein zuhause bleibst.
+
+Mit Freunden treffe ich mich draußen,
+und im Restaurant setzen wir mich auf die Terrasse.
+
+Ich gehe auch in Museen, den Supermarkt und ich verreise:
+Mit einer bequemen, dichten FFP2/3-Maske.
+
+Anderen Gästen oder Reisenden kann man ja nicht ansehen,
+ob sie immungeschwächt sind (z.B. wegen Covid selbst)
+oder gerade infektös sind.
+Ich möchte niemanden anstecken und da die meisten Infektionen symptoplos verlaufen, kann jeder unbewusst infektiös sein.
+
+Nur manchmal eine Maske zu tragen ist auch besser als niemals,
+denn die Dosis macht das Gift.
+
+Soll ich Dir helfen, eine bequeme, dichte Maske zu finden?
+
+[Mehr](https://docs.google.com/document/d/1NVXCp1g6p847-DgNfjP69wjDVCOZNVv2XAaQW1miWrM/view#heading=h.y31ogxovikrn)
+[Infos](https://docs.google.com/document/d/1NVXCp1g6p847-DgNfjP69wjDVCOZNVv2XAaQW1miWrM/view#heading=h.c1kqy6kqcrrx)
+
