@@ -66,3 +66,24 @@ Soll ich Dir helfen, eine bequeme, dichte Maske zu finden?
 [Mehr](https://docs.google.com/document/d/1NVXCp1g6p847-DgNfjP69wjDVCOZNVv2XAaQW1miWrM/view#heading=h.y31ogxovikrn)
 [Infos](https://docs.google.com/document/d/1NVXCp1g6p847-DgNfjP69wjDVCOZNVv2XAaQW1miWrM/view#heading=h.c1kqy6kqcrrx)
 
+## [Erwiderungen] "Die Maske schränkt meine Freiheit ein!"
+
+Auch deine Freiheit, bis ins hohe Alter zu leben?
+Auch deine Freiheit, nicht immer wieder krank zu werden?
+
+FFP2/3 schützt mein Recht auf Leben und Gesundheit.
+Der Regierung kann ich diesbezüglich nicht vertrauen,
+weil ihre Politik stattdessen darauf abzielt,
+dass wir wieder ins Büro, Restaurant, Konzert, etc. gehen.
+Es geht ihr nur kurzsichtig um die Wirtschaft,
+aber es ist ihr egal, dass wir dabei nicht so sicher sind wie 2020.
+
+## [Erwiderungen] "Masken sind staatliche Kontrolle!"
+
+Das Gegenteil ist richtig: Die Regierung schafft Maskenpflicht ab,
+damit möglichst Wenige weiterhin eine Maske tragen.
+
+Außerdem schützt eine Maske auch vor Gesichtserkennungssoftware
+und wahrt so deine Privatsphäre.
+Manche Geschäften behaupten, dass sie Ladendiebstahl verhindern wollen,
+aber ein Maskenverbot wäre ein Angriff auf die körperliche Autonomie.
